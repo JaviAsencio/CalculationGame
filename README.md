@@ -7,7 +7,7 @@ ex. Windows 10 or Mac or Linux
 
 ### Installing
 #### How/where to download your program
-#### ID3(Replit @Replit, VisualStudio)
+#### ID3(Replit @Replit (htttp:https://replit.com/), VisualStudio)
 #### Any modifications needed to be made to files/folders
 
 ### Executing program
@@ -29,9 +29,8 @@ ex. [@JaviAsencio](https://pages.github.com/)
 0.2
 Various bug fixes and optimizations
 See commit change or See release history
-0.1
 
 ## Initial Release
-
+0.1
 ## License
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
