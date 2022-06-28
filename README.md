@@ -7,7 +7,7 @@ ex. Windows 10 or Mac or Linux
 
 ### Installing
 #### How/where to download your program
-#### ID3(Replit @Replit (htttp:https://replit.com/), VisualStudio)
+#### ID3(Replit @Replit (https://replit.com/), VisualStudio)
 #### Any modifications needed to be made to files/folders
 
 ### Executing program
